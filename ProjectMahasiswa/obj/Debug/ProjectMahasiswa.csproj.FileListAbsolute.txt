@@ -1,0 +1,6 @@
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiUAS\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe.config
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiUAS\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiUAS\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiUAS\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojResolveAssemblyReference.cache
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiUAS\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiUAS\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
